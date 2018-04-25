@@ -3,5 +3,6 @@ package rocks.zipcodewilmington;
 /**
  * @author leon on 4/19/18.
  */
-public interface Food {
+public class Food {
+
 }
